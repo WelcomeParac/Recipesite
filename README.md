@@ -3,6 +3,7 @@
 This is a simple recipe site that allows users to view two different recipes along with their instructions. Please note that this site does not include any CSS styling and is focused on providing the recipe content..
 
 Technologies Used
+    
     HTML: Provides the structure and layout for the recipe site.
 
 Acknowledgments
